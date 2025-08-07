@@ -1,3 +1,4 @@
+# Master's thesis - May 2024
 # Application of Machine Learning for Prediction of Atmospheric Attenuation Effects on High Frequency Satellite Communications in Near Future
 ## Abstract
 As the demand for globally available high throughput wireless communications is ever
