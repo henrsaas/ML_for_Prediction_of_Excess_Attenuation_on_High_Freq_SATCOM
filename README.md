@@ -37,14 +37,14 @@ other similar fields traditionally governed by deterministic models or manual me
 
 ## Installation
 This thesis was completed in a Conda Environment using following versions:
-  conda==4.14.0
-  python==3.9.16
-  numpy==1.26.2 
-  pandas==1.4.4 
-matplotlib.pyplot==3.5.2 
-scikit-learn==1.3.0
-xgboost==2.0.2
-tensorflow==2.15.0
-joblib==1.2.0
-AutoML==1.1.7
+- conda==4.14.0
+- python==3.9.16
+- numpy==1.26.2 
+- pandas==1.4.4 
+- matplotlib.pyplot==3.5.2 
+- scikit-learn==1.3.0
+- xgboost==2.0.2
+- tensorflow==2.15.0
+- joblib==1.2.0
+- AutoML==1.1.7
 
