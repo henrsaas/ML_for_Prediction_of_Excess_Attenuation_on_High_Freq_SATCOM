@@ -48,3 +48,5 @@ This thesis was completed in a Conda Environment using following versions:
 - joblib==1.2.0
 - AutoML==1.1.7
 
+## How to use the code
+
