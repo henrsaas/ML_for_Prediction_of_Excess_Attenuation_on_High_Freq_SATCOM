@@ -31,3 +31,5 @@ similar task.
 prediction of excess attenuation on a high frequency satellite communication channel. And
 might serve as inspiration for future work within the field of satellite communications or
 other similar fields traditionally governed by deterministic models or manual methods.
+
+<img width="855" height="1029" alt="image" src="https://github.com/user-attachments/assets/005c437b-cafc-44e0-9c6d-924a90d7f9cd" />
